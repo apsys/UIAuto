@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2239" started-at="2020-07-19T20:22:17 PDT" finished-at="2020-07-19T20:22:19 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2239" started-at="2020-07-19T20:22:17 PDT" finished-at="2020-07-19T20:22:19 PDT">
+      <class name="test.page.factory.BlahBLahTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.page.factory.BlahBLahTest@3d99d22e]" name="setUp" is-config="true" duration-ms="2066" started-at="2020-07-19T20:22:17 PDT" finished-at="2020-07-19T20:22:19 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SampleTest()[pri:0, instance:test.page.factory.BlahBLahTest@3d99d22e]" name="SampleTest" duration-ms="12" started-at="2020-07-19T20:22:19 PDT" finished-at="2020-07-19T20:22:19 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.page.factory.BlahBLahTest@3d99d22e]" name="tearDown" is-config="true" duration-ms="135" started-at="2020-07-19T20:22:19 PDT" finished-at="2020-07-19T20:22:19 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.page.factory.BlahBLahTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
